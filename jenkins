@@ -39,7 +39,6 @@ pipeline {
             
             steps {
                 echo "Deploying the code to the production environment."
-                echo "Test Poll SCM."
             }
         }
     }
